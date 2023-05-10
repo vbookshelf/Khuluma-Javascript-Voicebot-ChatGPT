@@ -27,7 +27,8 @@ Please note that when running locally you'll need to allow access to your mic ea
 ## How it works
 - Javascript SpeechRecognition is used to convert the user's speech into text.
 - This text is then sent to ChatGPT via the OpenAI API.
-- Javascript SpeechSynthesis converts the response text into voice
+- Javascript SpeechSynthesis converts the response text into voice.
+- The voice the the default voice of your pc. It can be changed.
 
 <br>
 
