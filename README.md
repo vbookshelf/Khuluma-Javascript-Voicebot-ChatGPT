@@ -10,7 +10,7 @@ I never expected this simple design to work so well.
 ## How to run the app
 - Download the project folder and place it on your desktop.
 - Add your OpenAI API key to the chatgpt-config.js file
-- Open the index.html file in the Chrome browser. If Chrome is your default browser then you can simmply doulble click the index.html file and it will open the app in your browser.
+- Open the index.html file in the Chrome browser. If Chrome is your default browser then you can simply doulble click the index.html file and it will open the app in your browser.
 - Start chatting.
 
 Please note that when running locally you'll need to allow access to your mic each time you want to speak, however when the app is running on a web server (like Dreamhost) you only need to allow access to the mic once. After that you can talk naturally. 
@@ -35,7 +35,7 @@ If you want to deploy the app on a web server then you can simply upload it to y
 - Javascript SpeechRecognition is used to convert the user's speech into text.
 - This text is then sent to ChatGPT via the OpenAI API.
 - Javascript SpeechSynthesis converts the response text into voice.
-- The voice the the default voice of your pc. It can be changed.
+- The voice you'll hear is the default voice of your pc. It can be changed.
 
 <br>
 
@@ -44,4 +44,4 @@ If you want to deploy the app on a web server then you can simply upload it to y
 - Chat companion for the elderly
 - Mental health support
 - Learning through engaging conversation
-- Practice social skills and learn assertiveness through roleplay e.g. networking event, job interview, first date, dealing with rude people etc.
+- Practice social skills through roleplay e.g. networking event, job interview, first date etc.
