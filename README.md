@@ -36,6 +36,13 @@ If you want to deploy the app on a web server then you can simply upload it to y
 
 <br>
 
+## Cons
+- When using Javscript to make the OpenAI API request the API key can't be hidden. Anyone can easily see it. Therefore, if deploying the app on a shared web hosting server it's better to make the API calls using PHP. Shared servers usually have PHP installed. They don't have Python installed. Here's an example of how to use PHP:<br>
+https://github.com/vbookshelf/Maiya-ChatGPT-Experiments/blob/main/Exp_11--create-and-deploy-a-roleplay-english-practice-chatbot/chatgpt-api-code.php
+- The voice recognition is not perfect, but it's still very good and very fast. If the voice recognition is finding it difficult to understand something you want to say, you can type it in.
+
+<br>
+
 ## How it works
 - Javascript SpeechRecognition is used to convert the user's speech into text.
 - This text is then sent to ChatGPT via the OpenAI API.
