@@ -15,7 +15,7 @@ I never expected this simple design to work so well.
 
 Please note that when running locally you'll need to allow access to your mic each time you want to speak, however when the app is running on a web server (like Dreamhost) you only need to allow access to the mic once. After that you can talk naturally. 
 
-If you want to deploy the app on a web server then you can simply upload it to your web host. There's nothing else you'll need to do because this app doesn't use any backend code like Python or PHP.
+If you want to deploy the app on a web server then you can simply upload it to your web host. There's nothing else you'll need to do because this app doesn't use any backend code like Python or PHP. But, please remember that if you upload this app to a web server your API key will be visible. You'll need to create some backend code to secure it.
 
 <br>
 
