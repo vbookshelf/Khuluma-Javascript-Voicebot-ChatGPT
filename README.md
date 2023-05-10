@@ -10,7 +10,9 @@ Khuluma means "speak" or "talk" in Zulu. It's one of the official languages of S
 - Open the index.html file in the Chrome browser. If Chrome is your default browser then you can simmply doulble click the index.html file and it will open the app in your browser.
 - Start chatting.
 
-Please note that when running locally you'll need to allow access to your mic each time you want to speak, however when the app is running on a web server (like Dreamhost) you only need to allow access to the mic once. After that you can talk naturally.
+Please note that when running locally you'll need to allow access to your mic each time you want to speak, however when the app is running on a web server (like Dreamhost) you only need to allow access to the mic once. After that you can talk naturally. 
+
+If you want to deploy the app on a web server then you can simply upload it to your web host. There's nothing else you'll need to do because this app doesn't use any backend code like Python or PHP.
 
 <br>
 
