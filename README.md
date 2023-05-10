@@ -97,3 +97,9 @@ https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-develop
 https://github.com/vbookshelf/Maiya-ChatGPT-Experiments
 
 <br>
+
+## Comments
+Feel free to share your comments in the discussion forum:<br>
+https://github.com/vbookshelf/Khuluma-Voicebot-ChatGPT/discussions/1
+
+<br>
