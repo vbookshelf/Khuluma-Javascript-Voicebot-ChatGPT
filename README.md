@@ -6,8 +6,8 @@ Khuluma means "speak" or "talk" in Zulu. It's one of the official languages of S
 I never expected this simple design to work so well.
 
 <br>
-<img src="https://github.com/vbookshelf/Khuluma-Voicebot-ChatGPT/blob/main/images/parrot.png" height="200"></img>
-<i>Khuluma</i><br>
+<img src="https://github.com/vbookshelf/Khuluma-Voicebot-ChatGPT/blob/main/images/app.png" height="500"></img>
+<i>Khuluma Voicebot</i><br>
 <br>
 
 <br>
