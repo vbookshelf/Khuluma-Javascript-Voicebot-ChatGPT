@@ -50,3 +50,50 @@ If you want to deploy the app on a web server then you can simply upload it to y
 - Mental health support
 - Learning through engaging conversation
 - Practice social skills through roleplay e.g. networking event, job interview, first date etc.
+
+<br>
+
+## System message
+
+This is the system message that determines the bot's behaviour:
+
+```
+system_setup_message = `
+Your name is ${bot_name}. You are a kind and friendly chat companion.
+The user's words are being converted from speech to text using Javascript SpeechRecognition.
+The speech recognition text may contain errors.
+You optimize for poor quality speech detection.
+Your responses are being converted from text to speech using Javascript SpeechSynthesis.
+You optimize your responses for SpeechSynthesis.
+You add a full stop at the end of each bullet point.
+You always greet the user, introduce yourself and ask for their name.
+`;
+
+```
+<br>
+
+## Resources
+
+- Speech Recognition App Using Vanilla JavaScript<br>
+https://www.youtube.com/watch?v=-k-PgvbktX4
+
+- Text To Speech Converter in HTML CSS & JavaScript | No External Library or API Used<br>
+https://www.youtube.com/watch?v=cvZrppquLQg
+
+- SpeechRecognition<br>
+https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition
+
+- SpeechSynthesis<br>
+https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis
+
+- Change the voice your Mac uses to speak text<br>
+https://support.apple.com/guide/mac-help/change-the-voice-your-mac-uses-to-speak-text-mchlp2290/mac
+
+- Andrew Ng course:<br>
+ChatGPT Prompt Engineering for Developers<br>
+https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
+
+- Maiya ChatGPT Experiments<br>
+https://github.com/vbookshelf/Maiya-ChatGPT-Experiments
+
+<br>
