@@ -50,7 +50,7 @@ If you want to deploy the app on a web server then you can simply upload it to y
 - English practice
 - Chat companion for the elderly
 - Mental health support
-- Learning through engaging conversation
+- Learning through conversation
 - Practice social skills through roleplay e.g. networking event, job interview, first date etc.
 
 <br>
