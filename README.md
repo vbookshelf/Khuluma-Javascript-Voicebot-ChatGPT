@@ -82,7 +82,9 @@ You use a friendly and casual female tone.
 
 If you don't want Khuluma to ask for your name each time, please change the system_message in the chatgpt-config.js file.<br>
 You can even add your name to the system message and make other changes.
-For example you could add: You are chatting with Sarah. She is learning spanish.
+
+For example, remove the part that asks for the user's name and add this line: You are chatting with Sarah. She's your friend.<br>
+I think you'll enjoy the results.
 
 I've tried to make Khuluma sound more human and less like a customer service bot. You'll notice that I've specified a female tone. This is because a female tone tends to be perceived as warmer, more nurturing, and more approachable. 
 
