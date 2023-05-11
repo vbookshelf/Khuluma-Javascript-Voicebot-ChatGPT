@@ -83,6 +83,7 @@ You can even add your name to the system message and make other changes.
 For example you could add: You are chatting with Sarah. She is learning spanish.
 
 I've tried to make Khuluma sound more human and less like a customer service bot. You'll notice that I've specified a female tone. This is because a female tone tends to be perceived as warmer, more nurturing, and more approachable. 
+
 <br>
 
 ## Notes
