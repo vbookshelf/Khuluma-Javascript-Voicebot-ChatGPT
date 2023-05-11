@@ -111,8 +111,8 @@ https://github.com/vbookshelf/Maiya-ChatGPT-Experiments/blob/main/Exp_11--create
 
 ## App Image
 
-Image by Milu Černochová on Pixabay<br>
-https://pixabay.com/vectors/teacher-woman-gentlemen-ball-mum-1443455/
+Image by Clker-Free-Vector-Images on Pixabay<br>
+https://pixabay.com/vectors/parrot-tropical-wildlife-macaw-29314/
 
 <br>
 
