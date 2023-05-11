@@ -1,5 +1,5 @@
 # Khuluma Voicebot - ChatGPT
-Khuluma is ChatGPT with a voice. You can talk to Khuluma using both your voice and text.<br>
+Khuluma is a real-life Jarvis. It's ChatGPT with a voice interface.<br>
 
 This project demonstrates a quick and cheap way to create a personal, ChatGPT powered, voicebot using only HTML, CSS and Javascript.
 
