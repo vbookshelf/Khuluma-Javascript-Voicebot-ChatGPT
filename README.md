@@ -76,6 +76,7 @@ You always greet the user, introduce yourself and ask for their name.
 
 ## Notes
 - This app only works in the Google Chrome browser.
+- I built and tested this app on a Mac. It may operate slightly differently in Windows.
 - When using Javscript to make the OpenAI API request the API key can't be hidden. Anyone can easily see it. Therefore, if deploying the app on a shared web hosting server it's better to make the API calls using PHP. Shared servers usually have PHP installed. They don't have Python installed. Here's an example of how to use PHP:<br>
 https://github.com/vbookshelf/Maiya-ChatGPT-Experiments/blob/main/Exp_11--create-and-deploy-a-roleplay-english-practice-chatbot/chatgpt-api-code.php
 - The voice recognition is not perfect, but it's still very good and very fast. If the voice recognition is finding it difficult to understand something you want to say, you can type it in.
