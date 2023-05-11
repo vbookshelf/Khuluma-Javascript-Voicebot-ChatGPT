@@ -87,6 +87,7 @@ https://github.com/vbookshelf/Maiya-ChatGPT-Experiments/blob/main/Exp_11--create
 - As the context grows, the number of tokens increases and therefore, the API cost will also increase. Please monitor your costs.
 - I've found that it's best to have the app open in only one browser tab at a time. Having it open in more than one tab causes issues with the mic and the voice chat doesn't work.
 - If you don't want Khuluma to ask for your name each time, please change the system_message in the chatgpt-config.js file. You could also add your name to the system message.<br> For example you could add: You are chatting with Sarah. She is learning spanish.
+- The code is not stable yet. There are times when the bot hears itself speaking and responds to it's own voice.
 
 <br>
 
