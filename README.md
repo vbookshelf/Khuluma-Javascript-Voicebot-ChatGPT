@@ -12,7 +12,15 @@ Khuluma means "speak" or "talk" in Zulu. It's one of the official languages of S
 This is a link to a 24s video demo that's included in this repo. Please click "View raw" to download it.<br>
 https://github.com/vbookshelf/Khuluma-Voicebot-ChatGPT/blob/main/images/khuluma_video.mp4
 
-The voice recognition and text to speech are shown in real time - I haven't sped up the video. 
+The voice recognition and text to speech are in real time - I haven't sped up the video. 
+
+<br>
+
+## How it works
+- Javascript SpeechRecognition is used to convert the user's speech into text.
+- This text is then sent to ChatGPT via the OpenAI API.
+- Javascript SpeechSynthesis converts the response text into voice.
+- The voice you'll hear is the default voice of your pc. It can be changed.
 
 <br>
 
@@ -37,14 +45,6 @@ If you want to deploy the app on a web server then you can simply upload it to y
 - The chat can be saved.
 - A saved chat can be loaded to resume the conversation.
 - Takes advantage of the speed of Javascript.
-
-<br>
-
-## How it works
-- Javascript SpeechRecognition is used to convert the user's speech into text.
-- This text is then sent to ChatGPT via the OpenAI API.
-- Javascript SpeechSynthesis converts the response text into voice.
-- The voice you'll hear is the default voice of your pc. It can be changed.
 
 <br>
 
