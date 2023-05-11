@@ -61,7 +61,7 @@ If you want to deploy the app on a web server then you can simply upload it to y
 
 ## System message
 
-This is the system message that determines Khuluma's behaviour:
+This is the system message that controls Khuluma's behaviour:
 
 ```
 var system_setup_message = `
@@ -84,6 +84,15 @@ For example you could add: You are chatting with Sarah. She is learning spanish.
 
 I've tried to make Khuluma sound more human and less like a customer service bot. You'll notice that I've specified a female tone. This is because a female tone tends to be perceived as warmer, more nurturing, and more approachable. 
 
+I asked Khuluma how she was optimizing her responses. This is the answer I got:
+
+```
+Since my responses are being converted from text to speech, 
+I'm optimizing them for clarity and naturalness. 
+I try to use simple and concise language, avoid complex sentence structures, 
+and use appropriate intonation and emphasis to convey meaning. 
+I also add a full stop at the end of each bullet point to help with pacing and comprehension.
+```
 <br>
 
 ## Notes
