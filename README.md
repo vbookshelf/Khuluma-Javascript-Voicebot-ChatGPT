@@ -1,8 +1,9 @@
 # Khuluma Voicebot - ChatGPT
 Khuluma is ChatGPT with a voice. You can talk to Khuluma using both your voice and text.<br>
-Khuluma means "speak" or "talk" in Zulu. It's one of the official languages of South Africa.
 
 This project demonstrates a quick and cheap way to create a personal, ChatGPT powered, voicebot using only HTML, CSS and Javascript.
+
+Khuluma means "speak" or "talk" in Zulu. It's one of the official languages of South Africa.
 
 <br>
 <img src="https://github.com/vbookshelf/Khuluma-Voicebot-ChatGPT/blob/main/images/app1.png" height="500"></img>
