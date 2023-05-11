@@ -20,7 +20,7 @@ The voice recognition and text to speech are in real time - I haven't sped up th
 - Javascript SpeechRecognition is used to convert the user's speech into text.
 - This text is then sent to ChatGPT via the OpenAI API.
 - Javascript SpeechSynthesis converts the response text into voice.
-- The voice you'll hear is the default voice of your pc. It can be changed.
+- The voice you'll hear is the default voice of your pc. It can be changed in your system settings.
 
 <br>
 
