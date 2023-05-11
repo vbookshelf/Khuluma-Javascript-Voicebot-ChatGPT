@@ -2,6 +2,8 @@
 Khuluma is ChatGPT with a voice. You can talk to Khuluma using both your voice and text.<br>
 Khuluma means "speak" or "talk" in Zulu. It's one of the official languages of South Africa.
 
+This project demonstrates a quick and cost effective way to create a personal voicebot. Voicebots can be used to give people with disabilities a more accessible to way to interact with ChatGPT.
+
 <br>
 <img src="https://github.com/vbookshelf/Khuluma-Voicebot-ChatGPT/blob/main/images/app.png" height="500"></img>
 <i>Khuluma Voicebot</i><br>
@@ -54,7 +56,6 @@ If you want to deploy the app on a web server then you can simply upload it to y
 - Mental health support
 - Learning through conversation
 - Practice social skills through roleplay e.g. networking event, job interview, first date etc.
-- A voicebot can be used give people with disabilities a more accessible to way to interact with ChatGPT.
 
 <br>
 
@@ -92,7 +93,6 @@ https://github.com/vbookshelf/Maiya-ChatGPT-Experiments/blob/main/Exp_11--create
 - As the context grows, the number of tokens increases and therefore, the API cost will also increase. Please monitor your costs.
 - I've found that it's best to have the app open in only one browser tab at a time. Having it open in more than one tab causes issues with the mic and the voice chat doesn't work.
 - The code is not stable yet. There are times when the bot hears itself speaking and responds to it's own voice.
-- This app needs a stable internet connection. If the bot is not working well, check that your internet connection is okay.
 
 <br>
 
