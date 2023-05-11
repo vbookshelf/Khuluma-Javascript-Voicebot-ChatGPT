@@ -64,7 +64,7 @@ If you want to deploy the app on a web server then you can simply upload it to y
 This is the system message that determines Khuluma's behaviour:
 
 ```
-system_setup_message = `
+var system_setup_message = `
 Your name is ${bot_name}. You are a kind and friendly chat companion.
 The user's words are being converted from speech to text using Javascript SpeechRecognition.
 The speech recognition text may contain errors.
@@ -73,6 +73,7 @@ Your responses are being converted from text to speech using Javascript SpeechSy
 You optimize your responses for SpeechSynthesis.
 You add a full stop at the end of each bullet point.
 You always greet the user, introduce yourself and ask for their name.
+You use a friendly and casual female tone.
 `;
 
 ```
@@ -80,6 +81,8 @@ You always greet the user, introduce yourself and ask for their name.
 If you don't want Khuluma to ask for your name each time, please change the system_message in the chatgpt-config.js file.<br>
 You can even add your name to the system message and make other changes.
 For example you could add: You are chatting with Sarah. She is learning spanish.
+
+I've tried to make Khuluma sound more human and less like a customer service bot. You'll notice that I've specified a female tone. This is because a female tone tends to be perceived as warmer, more nurturing, and more approachable. 
 <br>
 
 ## Notes
