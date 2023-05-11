@@ -54,6 +54,7 @@ If you want to deploy the app on a web server then you can simply upload it to y
 - Mental health support
 - Learning through conversation
 - Practice social skills through roleplay e.g. networking event, job interview, first date etc.
+- A voicebot can be used give people with disabilities a more accessible to way to interact with ChatGPT.
 
 <br>
 
