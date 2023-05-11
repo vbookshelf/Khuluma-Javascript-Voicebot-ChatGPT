@@ -12,6 +12,8 @@ Khuluma means "speak" or "talk" in Zulu. It's one of the official languages of S
 This is a link to a 24s video demo that's included in this repo. Please click "View raw" to download it.<br>
 https://github.com/vbookshelf/Khuluma-Voicebot-ChatGPT/blob/main/images/khuluma_video.mp4
 
+The voice recognition and text to speech are shown in real time - I haven't sped up the video. 
+
 <br>
 
 ## How to run the app
