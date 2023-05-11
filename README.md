@@ -65,7 +65,7 @@ This is the system message that controls Khuluma's behaviour:
 
 ```
 var system_setup_message = `
-Your name is ${bot_name}. You are a kind and friendly chat companion.
+Your name is ${bot_name}. You are a kind and friendly roleplay chat companion.
 The user's words are being converted from speech to text using Javascript SpeechRecognition.
 The speech recognition text may contain errors.
 You optimize for poor quality speech detection.
@@ -83,6 +83,8 @@ You can even add your name to the system message and make other changes.
 For example you could add: You are chatting with Sarah. She is learning spanish.
 
 I've tried to make Khuluma sound more human and less like a customer service bot. You'll notice that I've specified a female tone. This is because a female tone tends to be perceived as warmer, more nurturing, and more approachable. 
+
+You'll laso notice that I've included the term "roleplay". I've found that this also helps the bot respond in a more human way, maybe beacuse it's playing the role of a human.
 
 I asked Khuluma how she was optimizing her responses. This is the answer I got:
 
