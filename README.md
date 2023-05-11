@@ -1,5 +1,5 @@
 # Khuluma Voicebot - ChatGPT
-You can communicate with Khuluma using either your voice or text. Khuluma will respond with both voice and text. Yes, it's just like Jarvis.<br>
+You can communicate with Khuluma using either your voice or text. Khuluma will respond with both voice and text. Yes, it's like Jarvis.<br>
 
 This project demonstrates a quick and cheap way to create a personal, ChatGPT powered, voicebot using only HTML, CSS and Javascript.
 
