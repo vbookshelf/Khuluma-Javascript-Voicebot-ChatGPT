@@ -59,7 +59,7 @@ If you want to deploy the app on a web server then you can simply upload it to y
 
 ## System message
 
-This is the system message that determines the bot's behaviour:
+This is the system message that determines Khuluma's behaviour:
 
 ```
 system_setup_message = `
@@ -97,10 +97,10 @@ https://www.youtube.com/watch?v=-k-PgvbktX4
 - Text To Speech Converter in HTML CSS & JavaScript | No External Library or API Used<br>
 https://www.youtube.com/watch?v=cvZrppquLQg
 
-- SpeechRecognition<br>
+- SpeechRecognition docs<br>
 https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition
 
-- SpeechSynthesis<br>
+- SpeechSynthesis docs<br>
 https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis
 
 - Change the voice your Mac uses to speak text<br>
