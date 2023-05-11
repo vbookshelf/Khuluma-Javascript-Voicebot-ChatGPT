@@ -91,7 +91,8 @@ https://github.com/vbookshelf/Maiya-ChatGPT-Experiments/blob/main/Exp_11--create
 - This app needs a stable internet connection. If the bot is not working well, check that your internet connection is okay.
 
 <br>
-## App Logo
+
+## App Image
 
 Image by Milu Černochová on Pixabay<br>
 https://pixabay.com/vectors/teacher-woman-gentlemen-ball-mum-1443455/
