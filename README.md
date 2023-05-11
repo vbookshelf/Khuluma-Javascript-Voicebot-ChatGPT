@@ -33,7 +33,7 @@ If you want to deploy the app on a web server then you can simply upload it to y
 - Runs in the Chrome browser.
 - A simple design that uses only Javascript, HTML and CSS.
 - Can be run locally or deployed to a low cost shared web hosting server.
-- The voicebot has context memory.
+- Khuluma has context memory.
 - The chat can be saved.
 - A saved chat can be loaded to resume the conversation.
 - Takes advantage of the speed of Javascript.
