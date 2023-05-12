@@ -85,7 +85,20 @@ You can even add your name to the system message and make other changes.
 
 For example, remove the part that asks for the user's name and add this line: You are chatting with Sarah. She's a friend.<br>
 
-I've tried to make Khuluma sound more human and less like a customer service bot. You'll notice that I've specified a female tone. This is because a female tone tends to be perceived as warmer, more nurturing, and more approachable. 
+I've tried to make Khuluma sound more human and less like a customer service bot. You'll notice that I've specified a female tone. This is because a female tone tends to be perceived as warmer, more nurturing, and more approachable. I've also added code that slices out the following sentences from Khuluma's responses:
+
+```
+var suffixes_list = [
+'How can I help you?', 
+'How can I assist you today?', 
+'How can I help you today?', 
+'Is there anything else you would like to chat about?', 
+'Is there anything else I can assist you with today?', 
+'Is there anything I can help you with today?', 
+'Is there anything else you would like to chat about today?', 
+'Is there anything else I can assist you with?'];
+
+```
 
 You'll laso notice that I've included the term "roleplay". I've found that this also helps the bot respond in a more human way, maybe beacuse it's playing the role of a human.
 
