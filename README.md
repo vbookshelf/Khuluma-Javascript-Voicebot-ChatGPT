@@ -124,7 +124,7 @@ https://github.com/vbookshelf/Maiya-ChatGPT-Experiments/blob/main/Exp_11--create
 - As the context grows, the number of tokens increases and therefore, the API cost will also increase. Please monitor your costs.
 - I've found that it's best to have the app open in only one browser tab at a time. Having it open in more than one tab causes issues with the mic and the voice chat doesn't work.
 - The code is not stable yet. There are times when the bot hears itself speaking and responds to it's own voice.
-- In Chrome on Android text-to-speech works fine (you can hear the bot) but I wasn't able to get the speech detection working. Looking at the questions on Stackoverflow, this appears to be an old problem.
+- In Chrome on Android, text-to-speech works fine (you can hear the bot) but I wasn't able to get the speech detection working. Looking at the questions on Stackoverflow, this appears to be an old problem.
 
 <br>
 
