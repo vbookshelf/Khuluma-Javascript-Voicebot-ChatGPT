@@ -5,6 +5,10 @@ This project demonstrates a simple and cheap way to create a personal, ChatGPT p
 
 Khuluma means "speak" or "talk" in Zulu. It's one of the official languages of South Africa.
 
+You can try a PHP version of Khuluma here:<br>
+(This will only be live for a limited time.)<br>
+https://khuluma.voicebot.woza.work/
+
 <br>
 <img src="https://github.com/vbookshelf/Khuluma-Voicebot-ChatGPT/blob/main/images/app1.png" height="500"></img>
 <i>Khuluma Voicebot</i><br>
