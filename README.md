@@ -59,6 +59,11 @@ If you want to deploy the app on a web server then you can simply upload it to y
 - Practice social skills through roleplay e.g. networking event, job interview, first date etc.
 - Voicebots can be used to give people with disabilities a more accessible way to interact with ChatGPT.
 
+#### Example: Simulated counseling session
+
+First enable voice chat by clicking "Start Talking".<br>
+Then say: Please simulate a counseling session. I am the patient and you are a counselor.
+
 <br>
 
 ## System message
