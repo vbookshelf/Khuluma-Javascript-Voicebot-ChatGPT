@@ -123,7 +123,7 @@ https://github.com/vbookshelf/Maiya-ChatGPT-Experiments/blob/main/Exp_11--create
 - The app will return an error when the context length for the model is exceeded. This will happen when the chat is very long.
 - As the context grows, the number of tokens increases and therefore, the API cost will also increase. Please monitor your costs.
 - I've found that it's best to have the app open in only one browser tab at a time. Having it open in more than one tab causes issues with the mic and the voice chat doesn't work.
-- The code is not stable yet. There are times when the bot hears itself speaking and responds to it's own voice.
+- The code, especially voice detection, is unstable on Android.
 
 
 <br>
@@ -170,3 +170,16 @@ https://github.com/vbookshelf/Khuluma-Voicebot-ChatGPT/discussions/1
 
 <br>
 
+## Revision History
+
+Version 1.1<br>
+15-May-2023<br>
+1- Fixed the problem where the bot hears itself speak and replies.<br>
+2- Improved the stability when the app is running on a web server.<br>
+3- The code, especially voice detection, is unstable on Android.<br>
+
+Version 1.0<br>
+9-May-2023<br>
+First release<br>
+
+<br>
