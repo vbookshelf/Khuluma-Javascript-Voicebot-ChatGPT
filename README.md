@@ -62,7 +62,7 @@ If you want to deploy the app on a web server then you can simply upload it to y
 #### Example: Simulated counseling session
 
 First enable voice chat by clicking "Start Talking".<br>
-Then say: Please simulate a counseling session. I am the patient and you are a counselor.
+Then say: Please simulate a counseling session. I am the patient and you are the counselor.
 
 <br>
 
