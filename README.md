@@ -126,7 +126,7 @@ I also add a full stop at the end of each bullet point to help with pacing and c
 - This app only works in the Google Chrome browser.
 - I built and tested this app on a Mac. It may operate slightly differently in Windows.
 - When using Javscript to make the OpenAI API request the API key can't be hidden. Anyone can easily see it. Therefore, if deploying the app on a shared web hosting server it's better to make the API calls using PHP. Shared servers usually have PHP installed. They don't have Python installed. Here's an example of how to use PHP to make OpenAI API calls:<br>
-https://github.com/vbookshelf/Maiya-ChatGPT-Experiments/tree/main/Exp_26-ziggy-php-voicebot
+https://github.com/vbookshelf/Maiya-ChatGPT-Experiments/tree/main/Exp_27-ziggy-php-voicebot-with-better-error-handling
 - The voice recognition is not perfect, but it's still very good and very fast. If the voice recognition is finding it difficult to understand something you want to say, you can type it in.
 - When the API is overloaded with requests the app returns an error. When this happens simply send your message again.
 - The app will return an error when the context length for the model is exceeded. This will happen when the chat is very long.
