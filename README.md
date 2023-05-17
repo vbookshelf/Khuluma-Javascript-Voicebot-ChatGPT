@@ -194,7 +194,7 @@ Version 1.2<br>
 1- Improved the robustness and stability of speech recognition.<br>
 2- Adding and deleting the 'end' event listener is important to ensure that the mic stays on, but that it also swiches off
 when the bot is talking. This prevents the bot from hearing itself talk and then responding.<br>
-3- The code, especially voice detection, is unstable on Android.<br>
+3- Voice detection is unstable in Chrome on Android. By "unstable" I mean that the bot hears itself talking and responds.<br>
 
 Version 1.1<br>
 15-May-2023<br>
