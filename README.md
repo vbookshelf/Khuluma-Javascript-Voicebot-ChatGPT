@@ -121,11 +121,8 @@ and use appropriate intonation and emphasis to convey meaning.
 I also add a full stop at the end of each bullet point to help with pacing and comprehension.
 ```
 
-Note that the above response is only possible when the model complies with the instructions in the system message. Many times the model does not comply with the system message. In those cases, when asked how it's able to talk, the nodel hallucinates a response. I'm not sure it the model itself is ignoring the system message or if OpenAI is constantly adjusting how the model responds to system messages. 
+Note that the above response is only possible when the model complies with the instructions in the system message. Many times the model does not comply with the system message. In those cases, when asked how it's able to talk, the nodel hallucinates a response. 
 
-The main takeaways are:<br>
-1- The app developer does not have precision control over the bot's behaviour.<br>
-2- The app settings can be overidden by the model itself or by a third party without the developer's knowledge or permission.
 
 <br>
 
