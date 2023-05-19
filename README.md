@@ -9,6 +9,9 @@ You can try a PHP version of Khuluma here:<br>
 (Please use the Chrome browser. This will only be live for a limited time.)<br>
 https://khuluma.voicebot.woza.work/
 
+Please note:<br>
+The voicechat feature works well on Mac, but it's unstable on Windows and on Android.
+
 <br>
 <img src="https://github.com/vbookshelf/Khuluma-Voicebot-ChatGPT/blob/main/images/app1.png" height="500"></img>
 <i>Khuluma Voicebot</i><br>
