@@ -9,6 +9,8 @@ You can try a PHP version of Khuluma here:<br>
 (Please use the Chrome browser. This will only be live for a limited time.)<br>
 https://khuluma.voicebot.woza.work/
 
+Khuluma-Php is the version that's deployed on the web. It's more secure that the Javascript version, but the Php version can't be run from the Desktop. The Php version includes a feature that will mute the bot when it's talking. This is not in the Javascript version.
+
 Please note:<br>
 The voicechat feature works well on Mac, but it's unstable on Windows and on Android.
 
